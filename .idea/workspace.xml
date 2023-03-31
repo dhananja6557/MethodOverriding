@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff6f7259-9b41-4563-90b8-e090a474463a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Monkey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Monkey.java" afterDir="false" />
-    </list>
+    <list default="true" id="ff6f7259-9b41-4563-90b8-e090a474463a" name="Changes" comment="MethodOverriding" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +58,18 @@
       <option name="presentableId" value="Default" />
       <updated>1680239626077</updated>
     </task>
+    <task id="LOCAL-00001" summary="MethodOverriding">
+      <created>1680243413864</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680243413864</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MethodOverriding" />
+    <option name="LAST_COMMIT_MESSAGE" value="MethodOverriding" />
   </component>
 </project>
